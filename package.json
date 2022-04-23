@@ -1,0 +1,17 @@
+{
+  "name": "soroglticket",
+  "version": "22.4.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "EfeSorgolu",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.2.4"
+  }
+}
